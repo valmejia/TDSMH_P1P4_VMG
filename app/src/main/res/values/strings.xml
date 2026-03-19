@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">TSDMH_P1P4_VMG</string>
+    <string name="p1t1">Menu de opciones</string>
+    <string name="p1btn1">Suma</string>
+    <string name="p1btn2">Resta</string>
+    <string name="p1btn3">Multiplicacion</string>
+    <string name="p1btn4">Division</string>
+
+    <string name="p2t1">Suma de dos numeros</string>
+    <string name="p2lbln1">Ingresa el primer numero</string>
+    <string name="p2lbln2">Ingresa el segundo numero</string>
+    <string name="p2h1n1">Primer numero</string>
+    <string name="p2h2n2">Segundo numero</string>
+    <string name="p2lblr">El resultado es: </string>
+    <string name="p2btn1calcula">Calcular</string>
+
+    <string name="p3t1">Resta de dos numeros</string>
+    <string name="p3lbln1">Ingresa el primer numero</string>
+    <string name="p3lbln2">Ingresa el segundo numero</string>
+    <string name="p3h1n1">Primer numero</string>
+    <string name="p3h2n2">Segundo numero</string>
+    <string name="p3lblr">El resultado es: </string>
+    <string name="p3btn1calcula">Calcular</string>
+
+    <string name="p4t1">Multiplicacion de dos numeros</string>
+    <string name="p4lbln1">Ingresa el primer numero</string>
+    <string name="p4lbln2">Ingresa el segundo numero</string>
+    <string name="p4h1n1">Primer numero</string>
+    <string name="p4h2n2">Segundo numero</string>
+    <string name="p4lblr">El resultado es: </string>
+    <string name="p4btn1calcula">Calcular</string>
+
+    <string name="p5t1">Division de dos numeros</string>
+    <string name="p5lbln1">Ingresa el primer numero</string>
+    <string name="p5lbln2">Ingresa el segundo numero</string>
+    <string name="p5h1n1">Primer numero</string>
+    <string name="p5h2n2">Segundo numero</string>
+    <string name="p5lblr">El resultado es: </string>
+    <string name="p5btn1calcula">Calcular</string>
+
+</resources>
