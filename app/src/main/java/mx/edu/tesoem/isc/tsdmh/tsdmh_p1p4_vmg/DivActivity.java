@@ -19,6 +19,7 @@ public class DivActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
+        setContentView(R.layout.activity_div);
 
         dtxtn1 = findViewById(R.id.dtxtn1);
         dtxtn2 = findViewById(R.id.dtxtn2);

@@ -21,6 +21,7 @@ public class MultiActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
+        setContentView(R.layout.activity_multi);
 
         mtxtn1 = findViewById(R.id.mtxtn1);
         mtxtn2 = findViewById(R.id.mtxtn2);

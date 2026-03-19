@@ -20,6 +20,7 @@ public class RestaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
+        setContentView(R.layout.activity_resta);
 
         rtxtn1 = findViewById(R.id.rtxtn1);
         rtxtn2 = findViewById(R.id.rtxtn2);

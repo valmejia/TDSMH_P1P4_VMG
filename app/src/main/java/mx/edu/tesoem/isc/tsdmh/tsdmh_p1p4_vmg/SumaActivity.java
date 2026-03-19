@@ -20,6 +20,7 @@ public class SumaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
+        setContentView(R.layout.activity_suma);
 
         txtn1 = findViewById(R.id.txtn1);
         txtn2 = findViewById(R.id.txtn2);
