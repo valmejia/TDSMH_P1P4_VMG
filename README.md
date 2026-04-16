@@ -31,7 +31,7 @@ Aplicación Android desarrollada en **Java** con **Android Studio** que:
 1. Clona el repositorio:
    
    ```bash
-   git clone https://github.com/valmejia/TDSMH_P1P6_VMG.git
+   git clone https://github.com/valmejia/TDSMH_P1P4_VMG.git
 
 2. Abre Android Studio.
 3. Espera a que se sincronicen las dependencias (Gradle).
